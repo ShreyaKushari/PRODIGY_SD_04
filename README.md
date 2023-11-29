@@ -1,1 +1,2 @@
 # PRODIGY_SD_04
+This Python Web Scraping Program is designed to extract data from websites using web scraping techniques. It utilizes the BeautifulSoup library for parsing HTML and the requests library for making HTTP requests. The program is a versatile tool that allows users to scrape and retrieve specific information from web pages, making it useful for various applications such as data collection, analysis, and research.
